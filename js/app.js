@@ -28,7 +28,7 @@ this.methods =
 ]; */
     /* works only in internet? */
     $http.get('http://teemukinnunen.github.io/feedbackmethods/feedbackmethods.json').success(function(data) {
-      $this.methods = data;
+      this.methods = data;
     });
     
 	
