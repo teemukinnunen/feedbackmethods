@@ -1,0 +1,83 @@
+[
+    {
+        "Name": "SMALL"
+    },
+    {
+        "Name": "MEDIUM"
+    },
+    {
+        "Name": "LARGE"
+    },
+    {
+        "Name": "MASSIVE"
+    },
+    {
+        "Name": "online"
+    },
+    {
+        "Name": "written"
+    },
+    {
+        "Name": "oral"
+    },
+    {
+        "Name": "comments"
+    },
+    {
+        "Name": "activating"
+    },
+    {
+        "Name": "quiz"
+    },
+    {
+        "Name": "prepared form"
+    },
+    {
+        "Name": "during the course"
+    },
+    {
+        "Name": "after the course"
+    },
+    {
+        "Name": "not anonymous"
+    },
+    {
+        "Name": "anonymous"
+    },
+    {
+        "Name": "in-class time"
+    },
+    {
+        "Name": "no in-class time"
+    },
+    {
+        "Name": "for evaluation"
+    },
+    {
+        "Name": "not for evaluation"
+    },
+    {
+        "Name": "st-st interaction"
+    },
+    {
+        "Name": "st-tch interaction"
+    },
+    {
+        "Name": "peer to peer feedback"
+    },
+    {
+        "Name": "qualitative"
+    },
+    {
+        "Name": "quantitative"
+    },
+    {
+        "Name": "export"
+    },
+    {
+        "Name": "no export"
+    },
+    {
+        "Name": "real time"
+    }
+]
