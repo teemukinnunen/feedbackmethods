@@ -20,7 +20,7 @@
                 ng-style="{color : tag.enabled && 'green' || 'red' }">#{{tag.Name}}</a> 
         </b>
       </div>
-	  <div ng-repeat="method in methods">
+	  <div ng-repeat="method in methods" ng-show="method.hidden == 0">
       <h2>{{method.Name}}</h2>
 	    <p>{{method.Description}}<br>
 	    Suitable class sizes:
